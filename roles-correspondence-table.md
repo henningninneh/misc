@@ -1,3 +1,7 @@
+# Correspondence table for roles and other keywords in ECJ court records
+
+Source: Self-compiled by comparing terms in the multilingual view on Eurlex.
+
 | English                                    | French                                     | German                             |
 | ------------------------------------------ | ------------------------------------------ | ---------------------------------- |
 | supported by                               | soutenu par                                | unterstützt durch                  |
