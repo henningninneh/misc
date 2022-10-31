@@ -12,6 +12,7 @@ Source: Self-compiled by comparing terms in the multilingual view on Eurlex.
 | appellants                                 | parties requérantes                        | Rechtsmittelführerinnen            |
 | applicant                                  | partie requérante                          | Kläger                             |
 | defendant                                  | partie défenderesse                        | Beklagter                          |
+| respondent                                 | partie défenderesse                        | Beklagter                          |
 | defendant at first instance                | partie défenderesse en première instance   | Beklagter im ersten Rechtszug      |
 | interveners                                | parties intervenantes                      | Streithelfer                       |
 | intervener at first instance               | partie intervenante en première instance   | Streithelferin im ersten Rechtszug |
