@@ -20,3 +20,4 @@ Source: Self-compiled by comparing terms in the multilingual view on Eurlex.
 | intervening party                          | en présence de                             | Beteiligte                         |
 | the other party to the proceedings being   | l’autre partie à la procédure étant        | andere Partei des Verfahrens       |
 | the other parties to the proceedings being | les autres parties à la procédure étant    | andere Parteien des Verfahrens     |
+| supported by                               | soutenus par                               | unterstützt durch                  |
