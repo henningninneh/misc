@@ -25,3 +25,4 @@ Source: Self-compiled by comparing terms in the multilingual view on Eurlex.
 | contends that the Court should:            | demande à la Cour :                        |                                    |
 | requests the Court to                      | demande à la Cour de                       |                                    |
 | appeal                                     | pourvoi                                    | Rechtsmittel                       |
+| action for annulment                       | recours en annulation                      | Nichtigkeitsklage
