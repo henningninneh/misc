@@ -24,4 +24,4 @@ Source: Self-compiled by comparing terms in the multilingual view on Eurlex.
 | contend that the Court should:             | demande à la Cour :                        |                                    |
 | contends that the Court should:            | demande à la Cour :                        |                                    |
 | requests the Court to                      | demande à la Cour de                       |                                    |
-| Appeal                                     | Pourvoi|                                   | Rechtsmittel                       |
+| appeal                                     | pourvoi                                    | Rechtsmittel                       |
